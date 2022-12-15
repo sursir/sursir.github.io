@@ -6,5 +6,5 @@ This is my blog, Happy to see You.
 <br/>
 #### >>>>>>>>>>>>>>>>>>>>
 
-* [各种吻 <链锯人ED>](./articles/all-kinds-of-kisses)
+* [各种吻 <链锯人ED>](http://sursir.github.io/articles/all-kinds-of-kisses)
 
